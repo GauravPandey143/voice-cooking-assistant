@@ -10,5 +10,5 @@ A hands-free, conversational cooking assistant that:
 1. Install requirements:
    ```bash
    pip install SpeechRecognition pyttsx3 pyaudio
-# Here is the screenshot of result:
+# Here is The Screenshot of Result:
 ![Screenshot 2025-06-22 203808](https://github.com/user-attachments/assets/8bc49577-1b0a-4d0c-b326-31b18c911313)
