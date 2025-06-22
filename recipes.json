@@ -1,0 +1,75 @@
+{
+  "pasta": [
+    "Boil two cups of water.",
+    "Add pasta and cook for ten minutes.",
+    "Drain the water.",
+    "Add tomato sauce and mix well.",
+    "Serve hot and enjoy your meal."
+  ],
+  "tea": [
+    "Boil one cup of water.",
+    "Add tea leaves and sugar.",
+    "Simmer for five minutes.",
+    "Add milk and bring to a boil.",
+    "Strain and serve hot."
+  ],
+  "maggi": [
+    "Boil one and a half cups of water.",
+    "Add Maggi noodles and tastemaker.",
+    "Cook for two minutes while stirring.",
+    "Turn off heat and let it sit for a minute.",
+    "Serve hot."
+  ],
+  "omelette": [
+    "Crack two eggs in a bowl.",
+    "Add salt, pepper, and chopped onions.",
+    "Whisk everything well.",
+    "Heat a pan with some oil.",
+    "Pour the mixture and cook both sides.",
+    "Serve hot."
+  ],
+  "poha": [
+    "Rinse poha in a strainer and keep aside.",
+    "Heat oil in a pan and add mustard seeds.",
+    "Add chopped onions, green chili, and curry leaves.",
+    "Add turmeric and salt, then mix in poha.",
+    "Cook for 2–3 minutes and serve with lemon juice."
+  ],
+  "sandwich": [
+    "Take two bread slices.",
+    "Spread butter on both sides.",
+    "Add sliced cucumber, tomato, and cheese.",
+    "Sprinkle salt and pepper.",
+    "Toast or grill the sandwich.",
+    "Serve hot with ketchup."
+  ],
+  "dal": [
+    "Rinse lentils thoroughly.",
+    "Boil with turmeric and salt until soft.",
+    "In another pan, heat oil and add mustard seeds, garlic, and chili.",
+    "Pour the tempering over the dal.",
+    "Simmer for 5 minutes and serve hot with rice."
+  ],
+  "rice": [
+    "Rinse one cup of rice in water.",
+    "Add two cups of water in a pot.",
+    "Add the rinsed rice and a pinch of salt.",
+    "Bring to a boil and then simmer on low flame.",
+    "Cook until water is absorbed and rice is fluffy."
+  ],
+  "chai": [
+    "Pour one cup water into a pan.",
+    "Add one teaspoon tea leaves and sugar to taste.",
+    "Boil for two minutes.",
+    "Add half cup milk and boil again.",
+    "Strain into a cup and serve hot."
+  ],
+  "upma": [
+    "Dry roast semolina in a pan and keep aside.",
+    "Heat oil and add mustard seeds and urad dal.",
+    "Add chopped onions, chilies, and curry leaves.",
+    "Add two cups of water and bring to boil.",
+    "Slowly add semolina while stirring.",
+    "Cook until thick and fluffy. Serve hot."
+  ]
+}
