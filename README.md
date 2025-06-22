@@ -6,7 +6,9 @@ A hands-free, conversational cooking assistant that:
 - Loads recipes from a `.json` file
 - Built in Python using `speech_recognition` and `pyttsx3`
 
-## How to Use
+# How to Use
 1. Install requirements:
    ```bash
    pip install SpeechRecognition pyttsx3 pyaudio
+# Here is the screenshot of result:
+![Screenshot 2025-06-22 203808](https://github.com/user-attachments/assets/8bc49577-1b0a-4d0c-b326-31b18c911313)
